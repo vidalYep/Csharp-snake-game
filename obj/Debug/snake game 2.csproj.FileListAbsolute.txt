@@ -1,0 +1,20 @@
+C:\Users\samuel\Pictures\EAD\criações\snake game 2\snake game 2\bin\Debug\snake game 2.exe.config
+C:\Users\samuel\Pictures\EAD\criações\snake game 2\snake game 2\bin\Debug\snake game 2.exe
+C:\Users\samuel\Pictures\EAD\criações\snake game 2\snake game 2\bin\Debug\snake game 2.pdb
+C:\Users\samuel\Pictures\EAD\criações\snake game 2\snake game 2\obj\Debug\snake game 2.csprojAssemblyReference.cache
+C:\Users\samuel\Pictures\EAD\criações\snake game 2\snake game 2\obj\Debug\snake_game_2.Form1.resources
+C:\Users\samuel\Pictures\EAD\criações\snake game 2\snake game 2\obj\Debug\snake_game_2.Properties.Resources.resources
+C:\Users\samuel\Pictures\EAD\criações\snake game 2\snake game 2\obj\Debug\snake game 2.csproj.GenerateResource.cache
+C:\Users\samuel\Pictures\EAD\criações\snake game 2\snake game 2\obj\Debug\snake game 2.csproj.CoreCompileInputs.cache
+C:\Users\samuel\Pictures\EAD\criações\snake game 2\snake game 2\obj\Debug\snake game 2.exe
+C:\Users\samuel\Pictures\EAD\criações\snake game 2\snake game 2\obj\Debug\snake game 2.pdb
+C:\Users\samuel\Pictures\EAD\criações\jogo da cobrinha\snake game 2\snake game 2\obj\Debug\snake game 2.csprojAssemblyReference.cache
+C:\Users\samuel\Pictures\EAD\criações\jogo da cobrinha\snake game 2\snake game 2\obj\Debug\snake_game_2.Form1.resources
+C:\Users\samuel\Pictures\EAD\criações\jogo da cobrinha\snake game 2\snake game 2\obj\Debug\snake_game_2.Properties.Resources.resources
+C:\Users\samuel\Pictures\EAD\criações\jogo da cobrinha\snake game 2\snake game 2\obj\Debug\snake game 2.csproj.GenerateResource.cache
+C:\Users\samuel\Pictures\EAD\criações\jogo da cobrinha\snake game 2\snake game 2\obj\Debug\snake game 2.csproj.CoreCompileInputs.cache
+C:\Users\samuel\Pictures\EAD\criações\jogo da cobrinha\snake game 2\snake game 2\obj\Debug\snake game 2.exe
+C:\Users\samuel\Pictures\EAD\criações\jogo da cobrinha\snake game 2\snake game 2\obj\Debug\snake game 2.pdb
+C:\Users\samuel\Pictures\EAD\criações\jogo da cobrinha\snake game 2\snake game 2\bin\Debug\snake game 2.exe.config
+C:\Users\samuel\Pictures\EAD\criações\jogo da cobrinha\snake game 2\snake game 2\bin\Debug\snake game 2.exe
+C:\Users\samuel\Pictures\EAD\criações\jogo da cobrinha\snake game 2\snake game 2\bin\Debug\snake game 2.pdb
